@@ -1,8 +1,8 @@
 ### E aí, tudo bem? 👋
 
 - 👨‍💻 Engenheiro de Software em FAST Soluções Tecnológicas.
-- 📚 5º período em Sistemas de Informação - UFRPE.
-- 💻 Flutter, HTML, CSS, Javascript, Python, Node.js, PHP, React, GCP, Wordpress, Bootstrap e JQuery.
+- 📚 6º período em Sistemas de Informação - UFRPE.
+- 💻 Angular, Flutter, Python, Node.js, React, AWS e GCP.
 - Aberto a oportunidades.
 <!-- 
 - 💬 Ask me about ...
